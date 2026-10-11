@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+syn/
+out/
+inspect_out/
+*.fits
